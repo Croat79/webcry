@@ -6,5 +6,5 @@
 Telegram Channel: https://t.me/cyberinfotime
 
 ❗❗❗ The author of the collection refuses to accept responsibility
-for your actions, you do everything at your own peril and risk!
+for your actions, you do everything at your own peril and risk! ❗❗❗
 

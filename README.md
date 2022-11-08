@@ -3,8 +3,6 @@
 2) Instagram-Phishing
 3) Telegram-Deanon-Bots
 
-Author:Telegram @vitaliy_0702
-
 Telegram Channel: https://t.me/cyberinfotime
 
 -> Автор сборника отказывается принимать ответственность

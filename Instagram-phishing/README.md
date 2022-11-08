@@ -13,6 +13,6 @@
 И человека перебрасывает на реальный сайт instagram.
 
 Мы видим файл logs.txt, там записаны всё наши "украденные" данные!
-Создал фишинг-проект: darkflamezzz (darkflamezzz7 на github).
+Создал фишинг-проект: darkflames project (darkflamezzz7 на github).
 
-My instagram: @darkflamezzz_
+My instagram: @07_darkflames_02

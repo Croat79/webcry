@@ -5,7 +5,7 @@
 
 Author:Telegram @vitaliy_0702
 
-Telegram Channel: t.me/@cyberinfotime
+Telegram Channel: https://t.me/cyberinfotime
 
 -> Автор сборника отказывается принимать ответственность
 за ваши действия, вы делаете все на свой страх и риск!
